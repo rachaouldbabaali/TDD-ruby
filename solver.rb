@@ -5,5 +5,7 @@ class Solver
         (1..n).reduce(:*)
     end
 
-    
+    def reverse(word)
+        word.reverse
+    end
 end
