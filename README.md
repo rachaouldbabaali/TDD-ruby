@@ -98,6 +98,11 @@ Go to the project directory.
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rachaouldbabaali)
 
 
+👤 **Wael Elsafty**
+
+- GitHub: [@waelelsafty07](https://github.com/waelelsafty07)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/waelelsafty07)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
