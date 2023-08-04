@@ -15,4 +15,11 @@ describe Solver do
         end 
     end
     
+    describe '#reverse' do
+        it 'returns the reversed word' do
+          expect(subject.reverse('hello')).to eq('olleh')
+        end
+    end
+
+    
 end
